@@ -8,7 +8,13 @@ Sou apaixonado por tecnologia e estou me especializando cada vez mais na área d
 Você pode acompanhar meus projetos e minha trajetória profissional pelo meu "[LinkedIn](https://www.linkedin.com/in/luis-eduardo-oliverisa-souza-789a11359/)" e aqui no GitHub, onde compartilho meus aprendizados e criações com o mundo.
 
 <p align="left">
-    </a> 
+ <a href="https://judge.beecrowd.com/pt/profile/1126677">
+  <img 
+    alt="desempenho no beecrowd" 
+    title="desempenho no Beecrowd" 
+    src="https://custom-icon-badges.demolab.com/badge/beecrowd-red.svg?style=for-the-badge&labelColor=red&logo=internet-explorer&logoColor=white" />
+</a>
+    </a>
     <a href="https://github.com/Luis14-code">
         <img 
             alt="Total de estrelas" 
