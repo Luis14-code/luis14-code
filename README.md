@@ -103,14 +103,14 @@ Você pode acompanhar meus projetos e minha trajetória profissional pelo meu "[
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luis14-code&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=Luis14-code&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=1" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis14-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    align="left" 
+    alt="Top Langs" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis14-code&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1" 
   />
-
 </p>
+
